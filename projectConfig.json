@@ -1,0 +1,46 @@
+{
+    "version": "1.0",
+    "GitConfig": {
+        "gits": [
+            {
+                "name": "GitHub",
+                "link": "https://github.com/gurdiano/GurSchedule"
+            }
+        ]
+    },
+    "DownloadConfig": {
+        "plataforms": [
+            {
+                "name": "Windows",
+                "downloads": [
+                    {
+                        "name": "Exe",
+                        "link": "Zip",
+                        "icon": "https://cdn-icons-png.flaticon.com/512/2306/2306085.png" 
+                    },
+                    {
+                        "name": "Exe",
+                        "link": "Zip",
+                        "icon": "https://cdn-icons-png.flaticon.com/512/2306/2306085.png" 
+                    }
+                ]
+            }
+        ],
+        "steps": [
+            {
+                "name": null,
+                "image": null,
+                "description": null
+            }
+        ]
+    },
+    "DocumentConfig": {
+        "documents": [
+            {
+                "name": null,
+                "icon": null,
+                "link": null
+            }
+        ]
+    }
+}
